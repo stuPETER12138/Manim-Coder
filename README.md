@@ -1,5 +1,7 @@
 # Manim-Coder
 
+This is a record of me learning to use Swift fine-tuning.
+
 ### methods
 
 ```shell
